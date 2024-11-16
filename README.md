@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQHsjCRcEo5LDQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720367424923?e=1736985600&v=beta&t=6LLKmrfPdL5oGDKbaZwD8CtO5ruiZDd5p-pXsMwTpP4)
+![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">I am a computer engineering student</h3>
