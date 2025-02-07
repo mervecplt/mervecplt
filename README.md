@@ -1,13 +1,68 @@
-![MasterHead]()
+![MasterHead](https://user-images.githubusercontent.com/76626529/128739475-8fb41814-e19e-490e-a699-57d1cd78332b.gif)
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">I am a computer engineering student</h3>
+<h3 align="center">Computer Engineering Student & Junior Software Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+🌱 **Hakkımda:**  
+- 📚 Bilgisayar mühendisliği öğrencisiyim.  
+- 🔭 Şu anda **Reality2You** ekibinde **Jr. Software Developer** olarak çalışıyorum.  
+- 🚀 Web geliştirme, yapay zeka ve veri bilimi konularına ilgim var.  
+- 📖 Yeni teknolojileri öğrenmeye ve projeler geliştirmeye devam ediyorum!  
+
+---
+
+### 📫 **Bana Ulaşın**  
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/merve-canpolat-6356442b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merve-canpolat-6356442b8" height="30" width="40" /></a>
-<a href="https://medium.com/@canpolatmerveb432a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@canpolatmerveb432a3" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/merve-canpolat-6356442b8" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@canpolatmerveb432a3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.reality2you.com/hakkimizda/merve-canpolat/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/web.svg" alt="Website" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mervecanpolat.x?igsh=MXU0eDdyMzk2amxpNQ==" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ **Diller ve Araçlar**
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 **GitHub İstatistikleri**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=canpolatmerve&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🚀 **Projelerim**
+- 🔹 **[Proje 1](#)** - Kendi geliştirdiğin projeyi buraya ekleyebilirsin!  
+- 🔹 **[Proje 2](#)** - Açık kaynak katkılarını gösterebilirsin.  
+
+📌 **Daha fazla proje için GitHub reposunu ziyaret edebilirsin!**  
+
+---
+
+⭐ **Eğer profilimi beğendiysen, repo'yu yıldızlamayı unutma!** 😊🌟
