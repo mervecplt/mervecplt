@@ -32,7 +32,7 @@
 ### 🌍 **Reality2You Web Sitesi**
 <p align="left">
   <a href="https://www.reality2you.com/hakkimizda/merve-canpolat/" target="_blank">
-    <img src="https://github.com/kullanıcı-adın/repository-adı/raw/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-07%20163601.png" alt="Reality2You Logo" width="200" />
+    <img src="https://github.com/kullanıcı-adın/repository-adı/raw/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-07%20163601.png" alt="Reality2You" width="200" />
   </a>
 </p>
 
@@ -50,12 +50,6 @@
 
 ---
 
-### 📊 **GitHub İstatistikleri**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canpolatmerve&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
   
 
 📌 **Daha fazla proje için GitHub reposunu ziyaret edebilirsin!**  
