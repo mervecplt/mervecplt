@@ -19,9 +19,7 @@
   <a href="https://medium.com/@canpolatmerveb432a3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-  <a href="https://www.reality2you.com/hakkimizda/merve-canpolat/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/web.svg" alt="Website" height="30" width="40" />
-  </a>
+ 
   <a href="https://www.instagram.com/mervecanpolat.x?igsh=MXU0eDdyMzk2amxpNQ==" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
