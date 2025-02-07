@@ -5,7 +5,7 @@
 
 🌱 **Hakkımda:**  
 - 📚 Bilgisayar mühendisliği öğrencisiyim.  
-- 🔭 Şu anda **Reality2You** ekibinde **Jr. Software Developer** olarak çalışıyorum.  
+- 🔭 Şu anda **Reality2You** ekibinde **Jr. Software Developer** olarak yer alıyorum.  
 - 🚀 Web geliştirme, yapay zeka ve veri bilimi konularına ilgim var.  
 - 📖 Yeni teknolojileri öğrenmeye ve projeler geliştirmeye devam ediyorum!  
 
