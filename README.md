@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">Computer Engineering Student & Junior Software Developer</h3>
 
-🌱 **Hakkımda:**  
-- 📚 Bilgisayar mühendisliği öğrencisiyim.  
-- 🔭 Şu anda **Reality2You** ekibinde **Jr. Software Developer** olarak yer alıyorum.  
-- 🚀 Web geliştirme, yapay zeka ve veri bilimi konularına ilgim var.  
-- 📖 Yeni teknolojileri öğrenmeye ve projeler geliştirmeye devam ediyorum!  
+🌱 **About Me:**  
+- 📚 I'm a Computer Engineering student.  
+- 🔭 Currently working as a **Jr. Software Developer** at **Reality2You**.  
+- 🚀 I'm interested in web development, artificial intelligence, and data science.  
+- 📖 I'm constantly learning new technologies and developing projects!  
 
 ---
 
-### 📫 **Bana Ulaşın**  
+### 📫 **Contact Me**  
 <p align="left">
   <a href="https://www.linkedin.com/in/merve-canpolat-6356442b8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -19,7 +19,6 @@
   <a href="https://medium.com/@canpolatmerveb432a3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
- 
   <a href="https://www.instagram.com/mervecanpolat.x?igsh=MXU0eDdyMzk2amxpNQ==" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
@@ -27,7 +26,7 @@
 
 ---
 
-### 🌍 **Reality2You Web Sitesi**
+### 🌍 **Reality2You Website**
 <p align="left">
   <a href="https://www.reality2you.com/hakkimizda/merve-canpolat/" target="_blank">
     <img src="https://github.com/kullanıcı-adın/repository-adı/raw/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-07%20163601.png" alt="Reality2You" width="200" />
@@ -36,7 +35,7 @@
 
 ---
 
-### 🛠️ **Diller ve Araçlar**
+### 🛠️ **Languages and Tools**
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -55,11 +54,11 @@
   </a>
 </p>
 
+---
 
-  
-
-📌 **Daha fazla proje için GitHub reposunu ziyaret edebilirsin!**  
+📌 **Check out my GitHub repositories for more projects!**  
 
 ---
 
-⭐ **Eğer profilimi beğendiysen, repo'yu yıldızlamayı unutma!** 😊🌟
+⭐ **If you like my profile, don't forget to star the repo!** 😊🌟
+
