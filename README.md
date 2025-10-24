@@ -10,7 +10,7 @@
   <a href="https://github.com/mervecplt?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/mervecplt?style=flat&logo=github">
   </a>
-  <a href="https://github.com/mervecplt">
+  <a href="https://komarev.com/ghpvc/?username=mervecplt&style=flat">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mervecplt&style=flat">
   </a>
   <a href="https://www.linkedin.com/in/merve-canpolat-6356442b8" target="_blank">
@@ -32,9 +32,8 @@
 - 🌐 Interested in **web development**, **AI/ML**, and **data science**  
 - 📚 Always learning, building and shipping small projects
 
-<!-- Optional quick facts -->
 <details>
-  <summary>More facts</summary>
+  <summary>Fun facts</summary>
   • I like clean code, meaningful commits, and small PRs.  
   • I write notes & mini-posts on Medium.  
   • Coffee + keyboard = happy me ☕️⌨️
@@ -44,10 +43,9 @@
 
 ## 🌍 Reality2You
 - Read my bio: **https://www.reality2you.com/hakkimizda/merve-canpolat/**  
-<!-- İstersen buraya şirket logosunu ekleyebilirsin:
-1) Bu repo'ya /assets/r2y.png dosyasını yükle
-2) Aşağıdaki satırı aktif et:
-<img src="./assets/r2y.png" alt="Reality2You" width="200" />
+<!-- Logo eklemek istersen:
+1) Bu repo'ya /assets/r2y.png yükle
+2) Aşağıyı aç:  <img src="./assets/r2y.png" alt="Reality2You" width="200" />
 -->
 
 ---
@@ -65,29 +63,68 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Tech | Links |
-|---|---|---|
-| **TreasureHunt_Game** | Java | [Repo](https://github.com/mervecplt/TreasureHunt_Game) • [Latest PRs](https://github.com/mervecplt/TreasureHunt_Game/pulls) |
-| **Java** (Exercises & notes) | Java | [Repo](https://github.com/mervecplt/Java) |
+<!-- Repo kartları -->
+<p align="left">
+  <a href="https://github.com/mervecplt/TreasureHunt_Game">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=mervecplt&repo=TreasureHunt_Game" alt="TreasureHunt_Game"/>
+  </a>
+  <a href="https://github.com/mervecplt/Java">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=mervecplt&repo=Java" alt="Java"/>
+  </a>
+</p>
 
-> Daha fazla proje için **[repositories](https://github.com/mervecplt?tab=repositories)** listeme göz atın.
+> More in **[repositories](https://github.com/mervecplt?tab=repositories)**.
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements & Trophies
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mervecplt&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mervecplt" alt="streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mervecplt&theme=flat&no-bg=true&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
+
+<!-- İstersen GitHub Achievements rozetlerine referans:
+Pull Shark • Quickdraw • YOLO • Pair Extraordinaire • Starstruck ... -->
+
+---
+
+## 📊 Activity & Stats
+<!-- Contribution/Activity graph -->
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervecplt&layout=compact&langs_count=8" alt="top langs"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mervecplt&hide_title=true&area=true&hide_border=true&radius=14" alt="activity-graph"/>
 </p>
+
+<!-- Genel istatistik ve streak -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mervecplt&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" alt="stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mervecplt&hide_border=true" alt="streak"/>
+</p>
+
+<!-- Diller -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervecplt&layout=compact&langs_count=8&hide_title=true" alt="top-langs"/>
+</p>
+
+<!-- İsteğe bağlı: Metrics (token gerektirebilir) -->
+<!--
+<img src="https://metrics.lecoq.io/mervecplt?template=classic&isocalendar=1&isocalendar.duration=full-year&languages=1&followup=1" alt="metrics">
+-->
+
+---
+
+## 🧩 Open Source Footprint
+- Opened **PRs** and contributed to various repositories.
+- Prefer **small, focused** PRs and thorough descriptions.
+- Interested in good first issues → happy to help and review.
+
+<!-- İstersen örnek katkı linkleri ekle:
+- PR: https://github.com/<org>/<repo>/pull/<id>
+-->
 
 ---
 
 ## ✍️ Latest Writing
-- Medium: **[@canpolatmerveb432a3](https://medium.com/@canpolatmerveb432a3)**  
-<!-- Manuel güncelle: Son 2 yazının linkini buraya ekle -->
+- Medium: **[@canpolatmerveb432a3](https://medium.com/@canpolatmerveb432a3)**
+<!-- Manuel: Son 2 yazının linkini ekleyebilirsin -->
 
 ---
 
@@ -98,5 +135,4 @@
 
 ---
 
-⭐ If you like what you see, consider giving a star.  
-
+<p align="center">⭐ If you like what you see, consider giving a star.</p>
