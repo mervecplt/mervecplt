@@ -125,11 +125,6 @@ Pull Shark • Quickdraw • YOLO • Pair Extraordinaire • Starstruck ... -->
 
 ---
 
-## 📫 Contact
-- LinkedIn: **/in/merve-canpolat-6356442b8**  
-- Medium: **@canpolatmerveb432a3**  
-- Instagram: **@mervecanpolat.x**
-
 ---
 
 <p align="center">⭐ If you like what you see, consider giving a star.</p>
