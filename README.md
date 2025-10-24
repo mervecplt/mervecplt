@@ -88,10 +88,7 @@ Pull Shark • Quickdraw • YOLO • Pair Extraordinaire • Starstruck ... -->
 ---
 
 ## 📊 Activity & Stats
-<!-- Contribution/Activity graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mervecplt&hide_title=true&area=true&hide_border=true&radius=14" alt="activity-graph"/>
-</p>
+
 
 <!-- Genel istatistik ve streak -->
 <p>
